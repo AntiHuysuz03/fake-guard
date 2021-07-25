@@ -1,0 +1,17 @@
+{
+    "sunucuID":"",
+    "guardTokenler":[""],
+    "guardToken":"",
+    "databaseToken":"",
+    "databaseTokenler":[""],
+    "sunucuURL":"",
+    "botSahip":"",
+    "whitelist":[""],
+    "rolYonet":[""],
+    "jailRolü":"",
+    "botDurum":"",
+    "botStatu":"",
+    "botSesKanali":"",
+    "logKanalı":"",
+    "prefix":""
+}

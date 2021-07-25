@@ -1,0 +1,22 @@
+{
+  "name": "acar-temiz-guard",
+  "version": "0.0.2",
+  "description": "ACAR Temiz Guard",
+  "main": "acar.js",
+  "scripts": {
+    "start": "node acar.js"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "author": "acar",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.4.1",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "mongoose": "^5.11.11",
+    "request": "^2.88.2"
+  },
+  "keywords": []
+}
