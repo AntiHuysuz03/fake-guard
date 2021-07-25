@@ -6,6 +6,7 @@ Bu altyapı ile sizi kandırabilirler ki bu altyapı bana kesinlikle ait değild
 Hani bunu yapan aptal botçu en azından güvenlik fonksiyonunda oynama yap yada nebiliyim Açıklamaları düzenle harbi beyinsizsin.
 
 # Orjinalinin Dosya Kalıbı
+![image](https://user-images.githubusercontent.com/77089894/126899659-95425413-a051-4e72-b966-b141a4656fca.png)
 ![image](https://user-images.githubusercontent.com/77089894/126899445-adee1381-da17-4665-9af5-28e9193dc8b2.png)
 ![image](https://user-images.githubusercontent.com/77089894/126899464-ff7d1824-d822-4a1b-80cf-0481e123938e.png)
 ![image](https://user-images.githubusercontent.com/77089894/126899486-1dc45fe3-5d89-4410-b670-9121af268f3a.png)
