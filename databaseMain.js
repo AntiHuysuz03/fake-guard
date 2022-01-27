@@ -3,7 +3,7 @@ const databaseclient = new Client({fetchAllMembers: true});
 const acar = require('./acar.json');
 const fs = require('fs');
 const mongoose = require('mongoose');
-mongoose.connect('', {useNewUrlParser: true, useUnifiedTopology: true})
+mongoose.connect('mongodb+srv://alper3131313:alper3131313@cluster0.2x2m4.mongodb.net/myFirstDatabase?retryWrites=true&w=majority', {useNewUrlParser: true, useUnifiedTopology: true})
 const Database = require("./Veritabani/roles");
 class databaseMain {
 
